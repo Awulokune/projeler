@@ -1,14 +1,15 @@
-# AWULOKUNE Projects
+# AWULOKUNE Portfolio
 
-Statik proje vitrini sitesi.
+Kişisel projeleri sergilemek için hazırlanmış statik portfolyo sitesi.
 
-## Kullanım
+## Dosyalar
 
-`index.html` dosyasını tarayıcıda aç.
+- `index.html` — Sayfa yapısı ve içerik
+- `style.css` — Koyu tema ve responsive tasarım
+- `script.js` — Footer yılını otomatik günceller
 
-## Özelleştirme
+## Bağlantılar
 
-- `index.html` içindeki GitHub bağlantılarını kendi profil/repo URL'lerinle değiştir.
-- MiniStrike için `Oyunu oyna` bağlantısını canlı oyun URL'siyle değiştir.
-- Proje görselleri CSS ile oluşturuldu; ayrıca görsel gerektirmez.
-- GitHub Pages ile yayınlanabilir.
+- GitHub: https://github.com/Awulokune
+- MiniStrike demo: https://awulokune.github.io/MiniStrike/
+- ESP32_ST7789_Fast: https://github.com/Awulokune/ESP32_ST7789_Fast
